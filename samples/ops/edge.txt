@@ -1,0 +1,7 @@
+image=samples/images/edge.bmp
+
+angle=90 size=- sample=nearest
+angle=12 size=- sample=bilinear
+angle=0 size=400x300 sample=bilinear
+angle=-38 size=100x75 sample=bilinear
+angle=0 size=- sample=nearest

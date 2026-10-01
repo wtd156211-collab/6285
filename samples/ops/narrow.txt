@@ -1,0 +1,6 @@
+image=samples/images/narrow.bmp
+
+angle=0 size=- sample=nearest
+angle=180 size=- sample=nearest
+angle=0 size=15x480 sample=bilinear
+angle=8 size=- sample=bilinear

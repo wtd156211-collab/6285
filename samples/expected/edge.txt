@@ -1,0 +1,5 @@
+1 angle=90 size=- sample=nearest w=150 h=200 pixels=30000 sum_rgb=17050924 sha256=c4e7f67ab1e5d8b8cc1742bdf751dfff547d4ed01ad7bccfbca9a00310d6e5c7
+2 angle=12 size=- sample=bilinear w=227 h=189 pixels=42903 sum_rgb=17050880 sha256=2958b9eff49c0281a59028a209a7509fa8b9c215c8ca3d94b38df2190be9c10c
+3 angle=0 size=400x300 sample=bilinear w=400 h=300 pixels=120000 sum_rgb=68170998 sha256=7d02baac3dc0bedcb05e36b79e636b0a6788a067a5f1b7b367017d53da60ab60
+4 angle=-38 size=100x75 sample=bilinear w=125 h=121 pixels=15125 sum_rgb=4263372 sha256=09534fa99cc85e93193863bf9e70f3638a444ac64c377891d0ad0a656ed2c4b9
+5 angle=0 size=- sample=nearest w=200 h=150 pixels=30000 sum_rgb=17050924 sha256=8ae17b878d48dec2f63231c2d01c19b8f1c33c4d711a37a5e942cba7ef3be024

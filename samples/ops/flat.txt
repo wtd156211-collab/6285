@@ -1,0 +1,6 @@
+image=samples/images/flat.bmp
+
+angle=45 size=- sample=bilinear
+angle=0 size=160x120 sample=bilinear
+angle=-30 size=- sample=bilinear
+angle=180 size=- sample=nearest

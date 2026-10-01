@@ -1,0 +1,7 @@
+image=samples/images/texture.bmp
+
+angle=30 size=- sample=nearest
+angle=30 size=- sample=bilinear
+angle=0 size=64x48 sample=bilinear
+angle=17 size=200x150 sample=bilinear
+angle=90 size=- sample=nearest
