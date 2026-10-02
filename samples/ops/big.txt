@@ -1,0 +1,5 @@
+image=samples/images/big.bmp
+
+angle=0 size=2048x1152 sample=bilinear
+angle=90 size=- sample=nearest
+angle=0 size=1080x1920 sample=bilinear
